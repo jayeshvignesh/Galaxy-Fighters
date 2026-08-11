@@ -29,7 +29,8 @@ Arrow Keys
 | R Ctrl: Shoot
 
 Layout:
-<img width="3836" height="1260" alt="Screenshot 2026-08-11 142306" src="https://github.com/user-attachments/assets/3d991093-3f6a-426c-b5f5-c38486f1ca66" />
+<img width="1561" height="505" alt="image" src="https://github.com/user-attachments/assets/6a80ae40-d93a-43f3-9c56-0fed7b0855fa" />
+
 
 
 Preview:
