@@ -18,15 +18,15 @@ NOTE: This doesn't use WASD to control one of the ships, as a keyboard shortcut 
 Yellow Spaceship
 
 E: Up
-|S: Left
-|D: Down
-|F: Right
-|L Ctrl: Shoot
+| S: Left
+| D: Down
+| F: Right
+| L Ctrl: Shoot
 
 Red Spaceship
 
 Arrow Keys
-|R Ctrl: Shoot
+| R Ctrl: Shoot
 
 Layout:
 <img width="3836" height="1260" alt="Screenshot 2026-08-11 142306" src="https://github.com/user-attachments/assets/3d991093-3f6a-426c-b5f5-c38486f1ca66" />
