@@ -31,6 +31,7 @@ NOTE: This doesn't use WASD to control one of the ships, as a keyboard shortcut 
 # Requirements
 - Python 3.x
 - pygame
+- pygbag
 
 # Layout:
 <img width="1561" height="505" alt="image" src="https://github.com/user-attachments/assets/6a80ae40-d93a-43f3-9c56-0fed7b0855fa" />
