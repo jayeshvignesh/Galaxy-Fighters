@@ -10,7 +10,7 @@ You are either a yellow or a red spaceship trying to take down the other spacesh
 Best 2 of 3
 
 ## Mechanics that might suprise you:
-you can't have more than 5 bullets on screen per player
+You can't have more than 5 bullets on screen per player
 
 # Controls:
 NOTE: This doesn't use WASD to control one of the ships, as a keyboard shortcut is called when playing the game. 
